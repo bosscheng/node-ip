@@ -1,0 +1,6 @@
+{
+  "name": "node-ip",
+  "version": "1.0.0",
+  "description": "get local ip",
+  "main": "index.js"
+}
